@@ -45,13 +45,6 @@ Welcome to the Aircode ECommerce Serverless RestApi project! This project provid
 - **Payment Intent:** Endpoint for creating a payment intent with Stripe, sending the client secret to the frontend.
 - **Card Payment:** Payment method provided for the checkout process.
 
-## Getting Started
-1. Clone the repository.
-2. Install the required dependencies using `npm install`.
-3. Set up your MongoDB database and provide the connection string in the configuration.
-4. Set up your Stripe account and provide the API key for payment processing.
-5. Configure environment variables for sensitive information.
-6. Deploy the serverless project using your preferred provider (e.g., AWS Lambda, Azure Functions).
 
 ## Environment Variables
 Make sure to set the following environment variables:
