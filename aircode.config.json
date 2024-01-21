@@ -1,0 +1,10 @@
+{
+  "name": "E-c0mmerce",
+  "runtime": "node/v18",
+  "region": "US",
+  "envs": [
+    "ACCESS_TOKEN_SECRET",
+    "STRIPE_KEY"
+  ],
+  "typescript": false
+}
