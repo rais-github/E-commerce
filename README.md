@@ -56,7 +56,6 @@ Welcome to the Aircode ECommerce Serverless RestApi project! This project provid
 ## Environment Variables
 Make sure to set the following environment variables:
 
-- `MONGO_URI`: MongoDB connection string.
 - `JWT_SECRET`: Secret key for JWT authentication.
 - `STRIPE_API_KEY`: Stripe API key for payment processing.
 
@@ -66,7 +65,7 @@ Once the project is deployed and configured, you can use the provided API endpoi
 Feel free to explore and customize the project according to your specific requirements!
 
 ## Contributors
-- [Your Name]
+- Himanshu Rai
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
